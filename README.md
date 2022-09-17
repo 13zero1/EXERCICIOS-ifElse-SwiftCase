@@ -1,4 +1,2 @@
 # EXERCICIOS-ifElse-SwiftCase
-Exercicios de fixação - Java bÁsico
-
-Praticando a estrutura de repetição IF - ELSE e SWIFTCASE 
+Praticando a estrutura de repetição IF - ELSE e SWIFTCASE no JAVA 
